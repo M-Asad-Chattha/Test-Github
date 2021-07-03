@@ -28,12 +28,14 @@ class ViewController: UIViewController {
     
     //1st commit in 4th-Branch
     //2nd commit in 4th-Branch
-<<<<<<< HEAD
     
     //1st commit in 5th-Branch
     //2nd commit in 5th-Branch
-=======
->>>>>>> parent of d5a7e27 (1st commit in 5th-Branch)
+
+    //Testing git --amend
+    //Applying  --ameng
+    //After Aplying ammend
+    //Tewsting again  --amend
 
 }
 
